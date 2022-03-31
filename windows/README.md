@@ -61,8 +61,8 @@ A scriptek PowerShell-ben készülnek.
 
 
 - [User létrehozás](https://github.com/laszlon/sysadmin/blob/main/powershell/create_user.ps1)
-- User törlés
-- User módosítás
+- [User törlés](https://github.com/laszlon/sysadmin/blob/main/powershell/del_user.ps1)
+- [User módosítás](https://github.com/laszlon/sysadmin/blob/main/powershell/mod_user.ps1)
 - Fájlok mozgatása
 - Szoftverfrissítések
 - Biztonsági másolás
