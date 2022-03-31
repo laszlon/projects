@@ -59,8 +59,8 @@ Főbb beállítások:
 ## Scriptek
 A scriptek PowerShell-ben készülnek.
 
-```
-- User [létrehozás](https://github.com/laszlon/sysadmin/blob/main/powershell/create_user.ps1)
+
+- [User létrehozás](https://github.com/laszlon/sysadmin/blob/main/powershell/create_user.ps1)
 - User törlés
 - User módosítás
 - Fájlok mozgatása
@@ -68,4 +68,4 @@ A scriptek PowerShell-ben készülnek.
 - Biztonsági másolás
 -
 -
-```
+
