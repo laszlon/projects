@@ -60,7 +60,7 @@ Főbb beállítások:
 A scriptek PowerShell-ben készülnek.
 
 ```
-- User létrehozás
+- [User létrehozás](https://github.com/laszlon/sysadmin/blob/main/powershell/create_user.ps1)
 - User törlés
 - User módosítás
 - Fájlok mozgatása
