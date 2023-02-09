@@ -136,14 +136,3 @@ A disk-ek kialakítását a ’lsblk -o NAME,SIZE,FSTYPE,TYPE,MOUNTPOINT’ para
 
 ![](Aspose.Words.785d1067-5bae-48e3-a741-3b298ddc508d.008.png)
 
-
-
-Források:
-
-<https://linuxscriptshub.com/configuring-software-raid-1-in-centos-7/>
-
-MDADM and LVM cheat sheet: <https://gist.github.com/plepe/52ecc9f18efb32c68d18>
-
-Több RAID típus kialakítása: <https://www.digitalocean.com/community/tutorials/how-to-create-raid-arrays-with-mdadm-on-ubuntu-16-04>
-
-https://www.cyberciti.biz/faq/how-to-check-raid-configuration-in-linux/
